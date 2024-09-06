@@ -1,2 +1,2 @@
 # AluraGemini
- Imersçao Dev com Gemini
+ Imersão Dev com Gemini
