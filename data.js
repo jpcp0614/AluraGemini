@@ -18,5 +18,3 @@ let dados = [
 		link: 'https://pt.wikipedia.org/wiki/Beatriz_Sousa',
 	},
 ];
-
-export default dados;
