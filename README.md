@@ -4,6 +4,10 @@
 
 Essa aplicação simples te ajuda a encontrar informações sobre atletas brasileiros! 🇧🇷 Basta digitar o nome de um atleta no campo de pesquisa e pronto, você terá acesso a uma lista com os resultados mais relevantes.
 
+**Acesse a aplicação:**
+
+Para experimentar o buscador, visite: [https://alura-gemini-vert.vercel.app/](https://alura-gemini-vert.vercel.app/)
+
 **Como funciona?**
 
 1. **Digite o nome do atleta:** Use o campo de pesquisa para inserir o nome do atleta que você procura.
@@ -16,7 +20,7 @@ Essa aplicação simples te ajuda a encontrar informações sobre atletas brasil
 * **CSS:** Estilizando a página para deixá-la mais bonita e organizada.
 * **JavaScript:** A mágica por trás da busca! O JavaScript é responsável por pegar o texto digitado, procurar nos dados e atualizar a página com os resultados.
 
-**Como usar:**
+**Como usar o código:**
 
 1. **Clone o repositório:** Use o Git para clonar este repositório em sua máquina local.
 2. **Abra o arquivo index.html:** Abra o arquivo `index.html` em seu navegador web favorito.
